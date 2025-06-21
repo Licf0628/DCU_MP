@@ -1,0 +1,13 @@
+# Visual Studio
+/.vs/
+/*.user
+/*.suo
+/*.cache
+/*.VC.db
+
+# 编译生成文件
+/bin/
+/obj/
+/Debug/
+/Release/
+/out/
